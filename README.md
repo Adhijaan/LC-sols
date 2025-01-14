@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adhijaan/LC-sols/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/Adhijaan/LC-sols/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Adhijaan/LC-sols/tree/master/0300-longest-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Adhijaan/LC-sols/tree/master/0695-max-area-of-island) |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adhijaan/LC-sols/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/Adhijaan/LC-sols/tree/master/0300-longest-increasing-subsequence) |
 ## Depth-First Search
 |  |
@@ -56,4 +58,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0974-reorder-data-in-log-files](https://github.com/Adhijaan/LC-sols/tree/master/0974-reorder-data-in-log-files) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Adhijaan/LC-sols/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
