@@ -26,12 +26,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/Adhijaan/LC-sols/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Adhijaan/LC-sols/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Adhijaan/LC-sols/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Adhijaan/LC-sols/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Adhijaan/LC-sols/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Adhijaan/LC-sols/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Adhijaan/LC-sols/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Adhijaan/LC-sols/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
@@ -76,4 +78,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhijaan/LC-sols/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Adhijaan/LC-sols/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Adhijaan/LC-sols/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
