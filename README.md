@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adhijaan/LC-sols/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Adhijaan/LC-sols/tree/master/0055-jump-game) |
 | [0200-number-of-islands](https://github.com/Adhijaan/LC-sols/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhijaan/LC-sols/tree/master/0215-kth-largest-element-in-an-array) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adhijaan/LC-sols/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/Adhijaan/LC-sols/tree/master/0133-clone-graph) |
 ## Graph
 |  |
