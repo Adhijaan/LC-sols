@@ -21,18 +21,22 @@ struct LetterLog {
 class Solution {
 public:
     vector<string> reorderLogFiles(vector<string>& logs) {
-        vector<string> l_logs;
         vector<string> d_logs;
-        priority_queue<LetterLog, vector<LetterLog>, greater<>> pq;
+        vector<LetterLog> L_logs;
         for (const auto & log : logs){
             int br = log.find_first_of(" ");
             char content_first_char = log[br+1];
             if (isalpha(content_first_char)){
-                pq.emplace(log);
+                L_logs.emplace_back(log);
             } else {
                 d_logs.push_back(log);
             }
         }
+
+
+        // Store ordered letter logs
+        priority_queue<LetterLog, vector<LetterLog>, greater<>> pq (L_logs.begin(),L_logs.end());
+        vector<string> l_logs;
         while (!pq.empty()){
             LetterLog L = pq.top();
             pq.pop();
