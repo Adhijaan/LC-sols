@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Adhijaan/LC-sols/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Adhijaan/LC-sols/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/Adhijaan/LC-sols/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Adhijaan/LC-sols/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhijaan/LC-sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Adhijaan/LC-sols/tree/master/0300-longest-increasing-subsequence) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adhijaan/LC-sols/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/Adhijaan/LC-sols/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Adhijaan/LC-sols/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Adhijaan/LC-sols/tree/master/0226-invert-binary-tree) |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adhijaan/LC-sols/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Adhijaan/LC-sols/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Adhijaan/LC-sols/tree/master/0695-max-area-of-island) |
 ## Hash Table
@@ -59,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adhijaan/LC-sols/tree/master/0079-word-search) |
 | [0974-reorder-data-in-log-files](https://github.com/Adhijaan/LC-sols/tree/master/0974-reorder-data-in-log-files) |
 ## Sorting
 |  |
@@ -101,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Adhijaan/LC-sols/tree/master/1014-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Adhijaan/LC-sols/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
