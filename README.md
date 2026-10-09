@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Adhijaan/LC-sols/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhijaan/LC-sols/tree/master/0215-kth-largest-element-in-an-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Adhijaan/LC-sols/tree/master/0300-longest-increasing-subsequence) |
+| [0621-task-scheduler](https://github.com/Adhijaan/LC-sols/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Adhijaan/LC-sols/tree/master/0695-max-area-of-island) |
 | [0974-reorder-data-in-log-files](https://github.com/Adhijaan/LC-sols/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/Adhijaan/LC-sols/tree/master/1014-k-closest-points-to-origin) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Adhijaan/LC-sols/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/Adhijaan/LC-sols/tree/master/0133-clone-graph) |
+| [0621-task-scheduler](https://github.com/Adhijaan/LC-sols/tree/master/0621-task-scheduler) |
 ## Graph
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhijaan/LC-sols/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Adhijaan/LC-sols/tree/master/0621-task-scheduler) |
 | [0974-reorder-data-in-log-files](https://github.com/Adhijaan/LC-sols/tree/master/0974-reorder-data-in-log-files) |
 | [1014-k-closest-points-to-origin](https://github.com/Adhijaan/LC-sols/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
@@ -76,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/Adhijaan/LC-sols/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Adhijaan/LC-sols/tree/master/0134-gas-station) |
+| [0621-task-scheduler](https://github.com/Adhijaan/LC-sols/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adhijaan/LC-sols/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Adhijaan/LC-sols/tree/master/0621-task-scheduler) |
 | [1014-k-closest-points-to-origin](https://github.com/Adhijaan/LC-sols/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -119,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Adhijaan/LC-sols/tree/master/0206-reverse-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Adhijaan/LC-sols/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
